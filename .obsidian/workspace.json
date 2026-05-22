@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "1b7d613dfdad262b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9df1cc6a9a74ce23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad1d40de302ec10e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/TanTack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TanTack"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1f22da819119738",
+    "type": "split",
+    "children": [
+      {
+        "id": "daf0edcf87c00ea2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46fc866f6706308f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "925a54b5f2181d9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4d3859e9970a60cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e763b593a1cdeb67",
+    "type": "split",
+    "children": [
+      {
+        "id": "225591a6dc55837e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d04a0ec0d9055b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setup/docker-compose.yml.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for docker-compose.yml"
+            }
+          },
+          {
+            "id": "3b9615809ee4413f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setup/docker-compose.yml.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from docker-compose.yml"
+            }
+          },
+          {
+            "id": "893da7ef934bc63f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "56115868cba4400f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cec7ef6690bb0511",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setup/docker-compose.yml.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of docker-compose.yml"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ad1d40de302ec10e",
+  "lastOpenFiles": [
+    "Setup/CICD Docker Setup.md",
+    "React/Zustand.md",
+    "React/TanTack.md",
+    "Setup/docker-compose.yml.md",
+    "Untitled.base",
+    "README.md",
+    "Mới biết/How To Install and Use Docker on Ubuntu.md",
+    "Setup",
+    "Mới biết/Database search keyword 'Trigram'.md",
+    "Mới biết/Caching.md",
+    "Mới biết/Bẫy Index trong database.md"
+  ]
+}
